@@ -5,7 +5,12 @@
 [![Stellar Wave](https://img.shields.io/badge/Stellar-Wave%205-7b2d8b)](https://communityfund.stellar.org)
 [![npm](https://img.shields.io/badge/npm-%40stellar--ai--payments%2Fsdk-blue)](https://www.npmjs.com/package/@stellar-ai-payments/sdk)
 
-> **TypeScript SDK enabling AI agents to send, receive, and gate access with micropayments on the Stellar network — using the x402 protocol, Multi-Party Payments (MPP), session keys, and fee sponsorship.**
+> **Alpha TypeScript SDK enabling AI agents to prepare and integrate micropayments on the Stellar network — including x402, Multi-Party Payments (MPP), session keys, and fee sponsorship interfaces.**
+
+> **Status:** this package is under active development and is not audited. API
+> compatibility, contract integrations, and production credential handling may
+> change between releases. Use testnet credentials only until the security and
+> integration review is complete.
 
 ---
 
